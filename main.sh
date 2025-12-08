@@ -13,7 +13,7 @@ FIRST_SETUP_FLAG="$SCRIPT_DIR/.first_setup_done"
 
 # URLs
 CROSVM_URL="https://github.com/polygraphene/gunyah-on-sd-guide/releases/download/v0.0.2/crosvm-a16"
-KERNEL_URL="https://github.com/polygraphene/gunyah-on-sd-guide/releases/download/v0.0.2/kernel"
+KERNEL_URL="https://raw.githubusercontent.com/Imacolombian346/gunyah-script/refs/heads/main/kernel"
 LIBB_URL="https://github.com/polygraphene/gunyah-on-sd-guide/releases/download/v0.0.2/libbinder.so"
 LIBB_NDK_URL="https://github.com/polygraphene/gunyah-on-sd-guide/releases/download/v0.0.2/libbinder_ndk.so"
 
