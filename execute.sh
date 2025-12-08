@@ -1,1 +1,3 @@
-clear && su -c ./main.sh
+clear
+chmod +x ./main.sh
+su -c ./main.sh
